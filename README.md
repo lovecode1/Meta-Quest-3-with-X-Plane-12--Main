@@ -16,3 +16,14 @@ For now, you still need a joystick to control the aircraft, but later I plan to 
 The performance and visual quality will never match a high-end Windows PC with native Quest Link and built-in X-Plane VR support, but the experience is good enough to be enjoyable.
 
 I think there’s real potential here.
+
+# How to Install
+Meta Quest 3 App apk can be download here:
+https://drive.google.com/file/d/1mDzhpilcCMWBR4Mjs2XV3QmcWVuZPK0S/view?usp=drive_link (It was too big to upload to GitHub).
+
+XP 12 plugin can downloaded here:
+https://github.com/lovecode1/Meta-Quest-3-with-X-Plane-12/tree/main/Mac_VR_Plugin
+
+Make sure to edit https://github.com/lovecode1/Meta-Quest-3-with-X-Plane-12/blob/main/Mac_VR_Plugin/settings.json:
+Enter there your local headset ip address.
+(You can find the address in your router settings).
