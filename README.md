@@ -43,6 +43,6 @@ Enter there your local headset ip address.
 10. Now you can use a joystick to fly the plane.
 
 # Desclaimer
-This app is still under development.
-Any feedback is welcome.
-If you find any issue you can post them on issues.
+* This app is still under development.
+* Any feedback is welcome.
+* If you find any issue you can post them on issues.
