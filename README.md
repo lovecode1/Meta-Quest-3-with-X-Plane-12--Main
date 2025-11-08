@@ -1,5 +1,6 @@
-# Running Meta Quest 3 with X Plane-12
-## Plugin + Quest App
+# Running Meta Quest 3 with X Plane-12 (Plugin + Quest App)
+
+### Introduction:
 
 ![alt Pilot with VR + MacBook](https://github.com/lovecode1/Meta-Quest-3-with-X-Plane-12/blob/main/Images/Pilot.jpg "Title")
 
