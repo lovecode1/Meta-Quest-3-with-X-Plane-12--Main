@@ -10,8 +10,6 @@ I really wanted the option to enjoy a VR experience on my MacBook. After spendin
 
 So I decided to build my own solution: a custom VR app and an X-Plane plugin. It’s still in development, but I already have a working proof of concept.
 
-If anyone is interested in trying it for free, let me know.
-
 The system has two parts: a dedicated Meta Quest 3 app and an X-Plane 12 plugin (it will probably work with XP11 as well, but I haven’t tested that yet).
 
 The plugin retrieves the headset’s pose and orientation, applies it to the X-Plane camera, and streams the simulator’s view back to the headset. This creates a usable 3D experience.
