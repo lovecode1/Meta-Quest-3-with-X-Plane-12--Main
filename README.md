@@ -46,3 +46,4 @@ Enter there your local headset ip address.
 * This app is still under development.
 * Any feedback is welcome.
 * If you find any issue you can post them on issues.
+* This application/plugin is provided “as is” without any warranty of any kind. You install and use it entirely at your own risk.
