@@ -80,4 +80,5 @@ Step 3: Allow USB access
 * This app is still under development.
 * Any feedback is welcome.
 * If you find any issue you can post them on issues.
+* If I see that there is a lot of interest in this plugin, I will most likely put more work into it.
 * This application/plugin is provided “as is” without any warranty of any kind. You install and use it entirely at your own risk.
