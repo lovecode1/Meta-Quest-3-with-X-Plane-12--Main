@@ -10,7 +10,7 @@ I really wanted the option to enjoy a VR experience on my MacBook. After spendin
 
 So I decided to build my own solution: a custom VR app and an X-Plane plugin. It’s still in development, but I already have a working proof of concept.
 
-The system has two parts: a dedicated Meta Quest 3 app and an X-Plane 12 plugin (it will probably work with XP11 as well, but I haven’t tested that yet).
+The system has two parts: a dedicated Meta Quest 3 app and an X-Plane 12 plugin (See comment below regarding X-Plane 11).
 
 The plugin retrieves the headset’s pose and orientation, applies it to the X-Plane camera, and streams the simulator’s view back to the headset. This creates a usable 3D experience.
 
@@ -30,7 +30,7 @@ To install the APK on your Meta Quest 3, you can use SideQuest or ADB for more a
 * To install ADB on MacOS run in the terminal: `brew install android-platform-tools`
 * Open the Meta app on your phone: Devices → Your headset → Developer Mode → enable
 * Restart the headset
-* Connect the deive via USB
+* Connect the headset via USB
 * In the terminal type: `adb devices`
 * Install the APK: `adb install /path/to/apk`
 
@@ -108,6 +108,10 @@ Adjust the slider until you find the balance that looks and feels best for your 
 
 # Plance specific vrconfig corrections:
 https://github.com/lovecode1/Meta-Quest-3-with-X-Plane-12/blob/main/vrconfig_fixes.md
+
+# X-Plane 11 support:
+The plugin does not currently run on X-Plane 11 because it requires an x86-64 binary, and only the ARM version is included at this time.
+If there is enough interest in X-Plane 11 support in the future, I will add an x86-64 build.
 
 # Desclaimer
 * This app is still under development.
