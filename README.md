@@ -24,7 +24,15 @@ I think there’s real potential here.
 ### Meta Quest 3 App apk can be download here:
 https://drive.google.com/file/d/1mDzhpilcCMWBR4Mjs2XV3QmcWVuZPK0S/view?usp=drive_link (It was too big to upload to GitHub).
 
-To install the APK on your Meta Quest 3, you can use SideQuest (or ADB for more advanced users).
+To install the APK on your Meta Quest 3, you can use SideQuest or ADB for more advanced users.
+
+#### How to setup ADB:
+* To install ADB on MacOS run in the terminal: `brew install android-platform-tools`
+* Open the Meta app on your phone: Devices → Your headset → Developer Mode → enable
+* Restart the headset
+* Connect the deive via USB
+* In the terminal type: `adb devices`
+* Install the APK: `adb install /path/to/apk`
 
 ### XP 12 plugin can downloaded here:
 https://github.com/lovecode1/Meta-Quest-3-with-X-Plane-12/tree/main/Mac_VR_Plugin
