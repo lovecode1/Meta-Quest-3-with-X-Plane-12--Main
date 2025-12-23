@@ -39,7 +39,7 @@ To install the APK on your Meta Quest 3, you can use ADB. (SideQuest is another 
 * Install the APK: `adb install /path/to/apk`
 
 ### XP 12 plugin can downloaded here:
-https://github.com/lovecode1/Meta-Quest-3-with-X-Plane-12/tree/main/Mac_VR_Plugin
+[Plugin Directory](https://github.com/lovecode1/Meta-Quest-3-with-X-Plane-12/tree/main/Mac_VR_Plugin)
 Make sure you place the full folder Mac_VR_Plugin in your X Plane plugin folder.
 The path is usually `<X Plane installtion path>/Resources/plugins`
 
@@ -47,8 +47,7 @@ The path is usually `<X Plane installtion path>/Resources/plugins`
 By default the XP plugin looks for the Quest on the ip address to 127.0.0.1
 Make sure you enable USB access.
 To enable USB access see the section below.
-In case you want to run on WiFi not on USB then edit the VR ip address here:
-https://github.com/lovecode1/Meta-Quest-3-with-X-Plane-12/blob/main/Mac_VR_Plugin/settings.json
+In case you want to run on WiFi not on USB then edit the VR ip address [here](https://github.com/lovecode1/Meta-Quest-3-with-X-Plane-12/blob/main/Mac_VR_Plugin/settings.json).
 (You can find the VR ip address in your router settings).
 
 # How to enable USB access:
@@ -111,7 +110,7 @@ If you set it too high, performance may drop. If you set it too low, performance
 Adjust the slider until you find the balance that looks and feels best for your setup.
 
 # Plance specific vrconfig corrections:
-https://github.com/lovecode1/Meta-Quest-3-with-X-Plane-12/blob/main/vrconfig_fixes.md
+[vrconfig_fixes.md](https://github.com/lovecode1/Meta-Quest-3-with-X-Plane-12/blob/main/vrconfig_fixes.md)
 
 # X-Plane 11 support:
 The plugin does not currently run on X-Plane 11 because it requires an x86-64 binary, and only the ARM version is included at this time.
