@@ -116,6 +116,9 @@ Adjust the slider until you find the balance that looks and feels best for your 
 The plugin does not currently run on X-Plane 11 because it requires an x86-64 binary, and only the ARM version is included at this time.
 If there is enough interest in X-Plane 11 support in the future, I will add an x86-64 build.
 
+# Source code:
+Source code is availabe [here](https://github.com/lovecode1/XPlane-12--Meta-Quest-Plugin).
+
 # Desclaimer
 * This app is still under development.
 * Any feedback is welcome.
