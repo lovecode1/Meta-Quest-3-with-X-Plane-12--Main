@@ -71,6 +71,9 @@ Step 3: Allow USB access
     Click Allow to grant access to your data.
     Select Always allow from this computer to make future connections easier.
 
+# What type of USB cable is recommended?
+I'm using (this cable)[https://www.amazon.com/dp/B0DSFHHP98], but any high-speed USB cable should work. High-quality USB cables include an internal chip that defines their supported speed and power ratings. For the best performance, I recommend using a 20 Gbps USB cable.
+
 # How to run
 1. Install the apk on your Meta Quest 3 (It should also work on Quest 3s but I didn't yet test).
 2. Make sure the app runs sucessfully on your VR.
