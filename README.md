@@ -72,7 +72,7 @@ Step 3: Allow USB access
     Select Always allow from this computer to make future connections easier.
 
 # What type of USB cable is recommended?
-I'm using (this cable)[https://www.amazon.com/dp/B0DSFHHP98], but any high-speed USB cable should work. High-quality USB cables include an internal chip that defines their supported speed and power ratings. For the best performance, I recommend using a 20 Gbps USB cable.
+Use a high-speed USB cable with the correct power rating. 20Gbs wil be a good choisw. High-quality USB cables include an internal chip that defines their supported speed and power ratings. For the best performance, I recommend using a 20 Gbps USB cable.
 
 # How to run
 1. Install the apk on your Meta Quest 3 (It should also work on Quest 3s but I didn't yet test).
@@ -118,6 +118,9 @@ Adjust the slider until you find the balance that looks and feels best for your 
 # X-Plane 11 support:
 The plugin does not currently run on X-Plane 11 because it requires an x86-64 binary, and only the ARM version is included at this time.
 If there is enough interest in X-Plane 11 support in the future, I will add an x86-64 build.
+
+# Stereoscopic support
+At this time, only monoscopic rendering is supported. I could not find a way to get X Plane to product stereoscopic capturing.
 
 # Source code:
 Source code is availabe [here](https://github.com/lovecode1/XPlane-12--Meta-Quest-Plugin).
