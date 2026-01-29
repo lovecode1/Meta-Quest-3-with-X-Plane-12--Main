@@ -120,7 +120,8 @@ The plugin does not currently run on X-Plane 11 because it requires an x86-64 bi
 If there is enough interest in X-Plane 11 support in the future, I will add an x86-64 build.
 
 # Stereoscopic support
-At this time, only monoscopic rendering is supported. I could not find a way to get X Plane to product stereoscopic capturing.
+At this time, only monoscopic rendering is supported. I couldn’t find a way for X-Plane to produce stereoscopic captures. 
+As a result, close objects won’t appear as perfect 3D, but the brain will still perceive a basic sense of depth.
 
 # Source code:
 Source code is availabe [here](https://github.com/lovecode1/XPlane-12--Meta-Quest-Plugin).
